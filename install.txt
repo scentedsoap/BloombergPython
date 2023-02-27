@@ -1,0 +1,5 @@
+Install pdblp library whenever on new computer
+pip install pdblp
+
+Install Bloomberg API whenever on new computer 
+-m pip install --index-url=https://bcms.bloomberg.com/pip/simple blpapi
